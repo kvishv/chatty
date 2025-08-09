@@ -13,7 +13,7 @@ Features
 🔹 Responsive UI – Works seamlessly on desktop and mobile.
 
 Tech Stack
-Frontend: React.js, Tailwind CSS (or your styling choice)
+Frontend: React.js, Tailwind CSS 
 Backend: Node.js, Express.js
 Real-time Engine: Socket.io
 Database: MongoDB (Mongoose)
